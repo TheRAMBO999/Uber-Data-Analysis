@@ -21,6 +21,14 @@ The objective is to transform raw Uber trip data into meaningful business insigh
 - Interactive menu
 - Project branding
 - Quick access to all report pages
-
-
 ![Uber](Uber_Home.jpeg)
+
+### 📈 Overview
+Provides a high-level summary of Uber operations including:
+- Total Trips
+- Total Revenue
+- Average Fare
+- Total Distance
+- Ride Trends
+- Time Slot Analysis
+- Key Performance Indicators (KPIs)
